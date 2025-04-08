@@ -25,7 +25,15 @@ The research includes a comparative case study involving **Buckinghamshire New U
 
 📘 Click below to view the full dissertation in PDF format:
 
-👉 [Masters Dissertation – Strategic Implementation of Information Technology Security Policies.pdf](./Masters%20Dissertation%20-%20Final%20Draft.pdf)
+👉 [Masters Dissertation – Strategic Implementation of Robust IT Security Policies in Higher Education.pdf](./Masters%20Dissertation%20-%20Final%20Draft.pdf)
+
+---
+
+## 🧾 Dissertation Research Mentor Reference Letter
+
+A reference letter from my academic supervisor, **Dr. Nicholas Day**, is included to provide an academic endorsement of this research project. It outlines the dissertation’s scope, originality, and contribution to the field of cybersecurity in higher education.
+
+📄 [Letter of Reference – MSc Dissertation (PDF)](./Letter%20of%20Reference,%20Masters%20Dissertation.pdf)
 
 ---
 

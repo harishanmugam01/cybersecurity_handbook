@@ -10,14 +10,18 @@ The research investigates the strategic design, implementation, and governance o
 
 The project focuses on:
 
-- The need for Chief Information Security Officers (CISOs) and clear governance structures in academic institutions  
-- Alignment of policy with international standards such as ISO 27001 and GDPR  
-- Risk mitigation strategies involving SIEM, SOAR, MFA, endpoint security, and access controls  
-- The gap between policy documentation and practical enforcement in higher education environments  
-- A proposed **“View of Reference”** framework to support holistic policy enforcement and cross-departmental accountability  
-- The common conflation of **cybersecurity governance with general IT operations**, highlighting the structural and cultural need to distinguish security leadership from traditional IT service delivery models
+- Strategic implementation of robust institutional Information Security Policies (ISPs) in higher education
+- Misalignment between policy documentation and actual enforcement across departments
+- Common conflation of **cybersecurity governance with general IT operations**, emphasizing the need to distinguish leadership roles
+- The necessity for institutional alignment with ISO 27001 and GDPR frameworks
+- The importance of having a dedicated Chief Information Security Officer (CISO) and a clear governance structure
+- A novel **"View of Reference"** framework for evaluating multi-stakeholder perspectives on security policies
 
-The research includes a comparative case study involving **Buckinghamshire New University** and **University of Exeter**, supported by expert interviews, institutional document analysis, and a policy evaluation matrix.
+The study includes a comparative analysis of institutional security practices at:
+- **Buckinghamshire New University**
+- **University of Exeter**
+
+Methodologies included document analysis, risk assessments, and expert interviews with security professionals and academic leaders.
 
 ---
 

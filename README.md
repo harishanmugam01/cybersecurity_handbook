@@ -21,7 +21,7 @@ The research includes a comparative case study involving **Buckinghamshire New U
 
 ---
 
-## 📄 Access the Full Dissertation
+## 📄 Access the Full Dissertation Research Documentation
 
 📘 Click below to view the full dissertation in PDF format:
 
@@ -31,7 +31,7 @@ The research includes a comparative case study involving **Buckinghamshire New U
 
 ## 🧾 Dissertation Research Mentor Reference Letter
 
-A reference letter from my academic supervisor, **Dr. Nicholas Day**, is included to provide an academic endorsement of this research project. It outlines the dissertation’s scope, originality, and contribution to the field of cybersecurity in higher education.
+A reference letter from my academic research mentor, **Dr. Nicholas Day**, is included to provide an academic endorsement of this research project. It outlines the dissertation’s scope, originality, and contribution to the field of cybersecurity in higher education.
 
 📄 [Letter of Reference – MSc Dissertation (PDF)](./Letter%20of%20Reference,%20Masters%20Dissertation.pdf)
 

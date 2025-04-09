@@ -29,7 +29,7 @@ Methodologies included document analysis, risk assessments, and expert interview
 
 📘 Click below to view the full dissertation in PDF format:
 
-👉 [Masters Dissertation – Strategic Implementation of Robust IT Security Policies in Higher Education.pdf](./Masters%20Dissertation%20-%20Final%20Draft.pdf)
+👉 [Masters Dissertation – Strategic Implementation of Robust IT Security Policies in Higher Education.pdf](./researchpaper_masters_dissertation.pdf)
 
 ---
 
@@ -37,7 +37,7 @@ Methodologies included document analysis, risk assessments, and expert interview
 
 A reference letter from my academic research mentor, **Dr. Nicholas Day**, is included to provide an academic endorsement of this research project. It outlines the dissertation’s scope, originality, and contribution to the field of cybersecurity in higher education.
 
-📄 [Letter of Reference – MSc Dissertation (PDF)](./Letter%20of%20Reference,%20Masters%20Dissertation.pdf)
+📄 [Letter of Reference – MSc Dissertation (PDF)](./referenceletter_masters_dissertation.pdf)
 
 ---
 
